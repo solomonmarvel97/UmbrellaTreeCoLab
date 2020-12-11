@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700,900');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900');
+
+/* Body */
+ body {
+     color: #000000;
+     font-size: 13px;
+     font-family: 'Montserrat', 'Roboto';
+     font-weight: 400;
+     background-color: #f0f2f5;
+}
+ .container-fluid {
+     max-width: 1400px;
+     padding: 0 32px;
+}
+ ul, ul li {
+     list-style: none;
+     margin: 0px;
+}
+ a, a:hover {
+     text-decoration: none;
+}
+ a {
+     color: #43619d;
+}
+ * {
+     margin: 0;
+     padding: 0;
+}
+ .btn-success{
+     background: #2cdd9b;
+     background: -webkit-linear-gradient(legacy-direction(to right), #2cdd9b 0%, #1dc8cc 100%);
+     background: -webkit-gradient(linear, left top, right top, from(#2cdd9b), to(#1dc8cc));
+     background: -webkit-linear-gradient(left, #2cdd9b 0%, #1dc8cc 100%);
+     background: -o-linear-gradient(left, #2cdd9b 0%, #1dc8cc 100%);
+     background: linear-gradient(to right, #2cdd9b 0%, #1dc8cc 100%);
+     border-color: #2cdd9b;
+}
+ .btn-outline-success {
+     color: #2cdd9b;
+     border-color: #2cdd9b;
+}
+ .btn-outline-success:hover{
+     background: #2cdd9b;
+     background: -webkit-linear-gradient(legacy-direction(to right), #2cdd9b 0%, #1dc8cc 100%);
+     background: -webkit-gradient(linear, left top, right top, from(#2cdd9b), to(#1dc8cc));
+     background: -webkit-linear-gradient(left, #2cdd9b 0%, #1dc8cc 100%);
+     background: -o-linear-gradient(left, #2cdd9b 0%, #1dc8cc 100%);
+     background: linear-gradient(to right, #2cdd9b 0%, #1dc8cc 100%);
+     border-color: #2cdd9b;
+}
+ .btn-light {
+     color: #2cdd9b;
+     background-color: #e5f7f0;
+     border-color: #d8f7eb;
+}
+ .btn-light:hover {
+     color: #ffffff;
+     background-color: #2cdd9b;
+     border-color: #2cdd9b;
+}
+ .text-gold {
+     color: #d3ac2b;
+}
+ .btn-outline-gold {
+     color: #d3ac2b;
+     border-color: #d3ac2b;
+}
+ .btn-outline-gold:hover {
+     color: #ffffff;
+     background-color: #d3ac2b;
+     border-color: #d3ac2b;
+}
+ .form-control, .btn, .custom-select {
+     font-size: 13px;
+}
+
+.icon-form-control i {
+    display: flex;
+    top: 0;
+    bottom: 0;
+    align-items: center;
+    font-size: 16px;
+    justify-content: center;
+    width: 40px;
+}
