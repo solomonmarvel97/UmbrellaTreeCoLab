@@ -42,7 +42,7 @@
                 <div class="description">
                   <h3>Description</h3>
                   <p>
-                    I am a Software Engineer from Nigeria. I like everything
+                    I am a Artificial Intelligence Trainee from Nigeria. I like everything
                     from video games to phone systems to explainer videos to
                     children's books. I am originally from the South East of
                     Nigeria.

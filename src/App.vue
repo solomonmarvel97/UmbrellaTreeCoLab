@@ -1,7 +1,6 @@
 <template>
   <div>
-    <!-- notification types -->
-    <notifications group="app" position="top right"/>
+    <notifications group="app" position="top right"/> <!-- notification -->
     <router-view></router-view>
   </div>
 </template>

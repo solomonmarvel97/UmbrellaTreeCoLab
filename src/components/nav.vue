@@ -5,10 +5,9 @@
         <a href="https://umbrellacolabhome.onrender.com/">
           <img class="navbar-brand d-inline-block align-top" src="@/assets/images/logo.png" width="50" height="50" alt="">
         </a>
-      
             <ul class="navbar-nav align-items-center ml-auto">
             <li class="nav-item">
-              <a class="nav-link" href="#">Wo we are 
+              <a class="nav-link" href="#">Who we are 
                 <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
@@ -41,6 +40,7 @@
     }
     </script>
     
-    <style>
+    <style scoped>
+    
     
     </style>
