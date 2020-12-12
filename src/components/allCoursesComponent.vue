@@ -59,7 +59,7 @@ data() {
           description:
             "Path to mastering the basics of machine learning & python",
           image_url: require("@/assets/images/ml.png"),
-          action: "enroll",
+          action: "training_area",
         },
         {
           id: "2",
@@ -67,7 +67,7 @@ data() {
           series: "Man and Machine",
           description: "Introduction to the basics of blockchain technology",
           image_url: require("@/assets/images/bc.png"),
-          action: "enroll",
+          action: "training_area",
         },
         {
           id: "3",
@@ -75,7 +75,7 @@ data() {
           series: "Intelligence without brains",
           description: "Introductory guide to approaching Machine Learning  ",
           image_url: require("@/assets/images/intelligence.png"),
-          action: "enroll",
+          action: "training_area",
         },
         {
           id: "4",
@@ -83,7 +83,7 @@ data() {
           series: "Intelligence without brains",
           description: "Building machine learning models using tensorflow",
           image_url: require("@/assets/images/tensorflow.png"),
-          action: "enroll",
+          action: "training_area",
         },
       ],
     };
