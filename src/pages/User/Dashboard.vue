@@ -4,7 +4,7 @@
       <div align="center">
         <h2 style="font-weight: 900">Hi Amaka, Choose a Program</h2>
         <h4 style="font-weight: 900">
-          <a href="all_courses"> View available courses </a>
+          <a href="courses"> View available courses </a>
         </h4>
         <hr style="color: rgb(209, 209, 209)" />
       </div>
