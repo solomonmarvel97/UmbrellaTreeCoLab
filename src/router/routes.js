@@ -59,32 +59,32 @@ const routes = [
     children: [
       {
         name: "dashboard",
-        path: "dashboard",
+        path: "/dashboard",
         component: Dashboard,
       },
       {
         name: "profile",
-        path: "profile",
+        path: "/profile",
         component: Profile,
       },
       {
         name: "courses",
-        path: "courses",
+        path: "/courses",
         component: AllCourses,
       },
       {
         name: "training_area",
-        path: "training_area",
+        path: "/training_area",
         component: Training,
       },
       {
         name: "certification",
-        path: "certification",
+        path: "/certification",
         component: Certification,
       },
       {
         name: "match_making",
-        path: "match_making",
+        path: "/match_making",
         component: MatchMaking,
       },
     ],
