@@ -1,5 +1,5 @@
 var app = new Vue({
-    el: "#login",
+    el: "#signup",
     data() {
       return {
         error:false,
