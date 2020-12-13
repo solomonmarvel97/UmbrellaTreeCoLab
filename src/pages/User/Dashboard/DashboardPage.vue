@@ -8,20 +8,19 @@
         <programsCard/>
         <!-- end program options -->
 
+        <hr>
+        <h4 class="text-center" style="font-weight: 900"> <a href="courses">See all courses</a> </h4>
+        
 
-      <div align="center" class="py-5">
-        <h5 style="font-weight: 900"> Top 4 Courses </h5>
-        <br>
-      </div>
+
+        <h5 class="py-5" style="font-weight: 900"> Top 4 Courses </h5>
+
+      
         
         <!-- start course card -->
         <courseCard/>
         <!-- end course card -->
-        
-        <div align="center" class="py-5">
-        <h4 style="font-weight: 900"> <a href="courses">See more courses</a> </h4>
-        <br>
-      </div>
+      
 
     </div>
   </div>

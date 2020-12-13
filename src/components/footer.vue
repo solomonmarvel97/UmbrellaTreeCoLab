@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="container px-5 py-5 mx-auto">
+    <div class="container px-5  mx-auto">
     <div class="row mt-large pb-5">
         <div class="col-md-8 col-6">
             <div class="row d-flex justify-content-between">
