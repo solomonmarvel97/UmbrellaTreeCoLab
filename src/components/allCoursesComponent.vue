@@ -30,11 +30,10 @@
                           <h3>{{ course.description }}</h3>
                           <div class="footer">
                             <div class="price">
-                              <a
-                                :href="course.action"
-                                class="btn small_primary_button"
-                                >Enroll</a
-                              >
+                              <button
+                                @click="showAlert()"
+                                class="btn small_primary_button_dark"
+                                >Enroll</button>
                             </div>
                           </div>
                         </div>
@@ -88,6 +87,15 @@ data() {
       ],
     };
   },
+  methods: {
+    showAlert(){
+            swal({
+                title: "Course Added to your Account",
+                text: "Thanks for using Umbrellatree CoLab",
+                icon: "success",
+            });
+    }
+}
 }
 </script>
 
