@@ -2,25 +2,17 @@
   <div class="freelance-projects py-5 dashboard">
     <div class="container" style="max-width: 1140px !important">
       
-      <h2 class="text-center">{{timeOfTheDay}} Amaka, Choose a Program</h2>
+      <h5 class="text-center">{{timeOfTheDay}} Amaka<br> <span><a href="courses">Take a Course</a></span> | <span><a href="job_board">Jobs near you</a></span></h5>
 
-      <!-- start program options -->
         <programsCard/>
-        <!-- end program options -->
 
         <hr>
-        <h4 class="text-center" style="font-weight: 900"> <a href="courses">See all courses</a> </h4>
+
+
+        <h5 class="text-center py-5" style="font-weight: 900"> Top 4 Courses </h5>
         
 
-
-        <h5 class="py-5" style="font-weight: 900"> Top 4 Courses </h5>
-
-      
-        
-        <!-- start course card -->
-        <courseCard/>
-        <!-- end course card -->
-      
+        <courseCard/>      
 
     </div>
   </div>

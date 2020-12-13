@@ -5,7 +5,9 @@ import router from "./router";
 import store from "./store";
 import VueJSModal from "vue-js-modal";
 import Notifications from "vue-notification";
-
+import VueSwal from 'vue-swal'
+ 
+Vue.use(VueSwal)
 Vue.use(VueRouter);
 Vue.use(require('vue-moment'));
 Vue.use(Notifications);

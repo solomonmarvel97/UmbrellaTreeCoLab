@@ -16,8 +16,13 @@ import Certification from "@/pages/User/Program/Course/Certification.vue";
 import Dashboard from "@/pages/User/Dashboard/DashboardPage.vue";
 import JobMatch from "@/pages/User/Job/JobMatchPage.vue";
 import Profile from "@/pages/User/Profile/ProfilePage.vue";
-import Aptitude from "@/pages/User/Program/AptitudeTestPage.vue";
 import Training from "@/pages/User/Program/Course/LecturePage.vue";
+import Internship from "@/pages/Forms/Internship.vue"
+import JobBoard from "@/pages/User/Job/JobBoard.vue"
+
+import Aptitude from "@/pages/User/Program/AptitudeTestPage.vue";
+
+
 
 const routes = [
 
@@ -52,6 +57,8 @@ const routes = [
       { name: "training_area", path: "training_area", component: Training },
       { name: "certification", path: "certification", component: Certification },
       { name: "match_making", path: "match_making", component: JobMatch },
+      { name: "internship", path: "internship", component: Internship },
+      { name: "job_board", path: "job_board", component: JobBoard },
     ],
   },
 ];

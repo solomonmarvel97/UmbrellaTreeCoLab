@@ -1,11 +1,10 @@
 
     <template>
-       <nav class="navbar navbar-expand-lg navbar-light topbar static-top shadow-sm bg-white osahan-nav-top px-0 fixed-top">
+       <nav class="navbar navbar-expand-lg navbar-light topbar static-top shadow-sm bg-white osahan-nav-top px-0 stickynote">
         <div class="container">
         <a href="https://umbrellacolabhome.onrender.com/">
           <img class="navbar-brand d-inline-block align-top" src="@/assets/images/logo.png" height="60" alt="">
         </a>
-            
             <ul class="navbar-nav align-items-center ml-auto">
             
             <li class="nav-item dropdown">
