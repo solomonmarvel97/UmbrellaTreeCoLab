@@ -2,9 +2,9 @@
 import error404 from "@/pages/Errors/error404.vue";
 
 //layouts
-import Landing from "@/layout/Landing.vue";
+import AuthLayout from "@/layout/AuthLayout.vue";
 import UserLayout from "@/layout/UserLayout.vue";
-import AdminLayout from "@/layout/AdminLayout.vue";
+
 
 // authentication pages
 import SignIn from "@/pages/LoginPage.vue";
@@ -19,7 +19,6 @@ import Profile from "@/pages/User/Profile/ProfilePage.vue";
 import Training from "@/pages/User/Program/Course/LecturePage.vue";
 import Internship from "@/pages/Forms/Internship.vue"
 import JobBoard from "@/pages/User/Job/JobBoard.vue"
-
 import Aptitude from "@/pages/User/Program/AptitudeTestPage.vue";
 
 
@@ -36,7 +35,7 @@ const routes = [
     meta: {
       authPages: true,
     },
-    component: Landing,
+    component: AuthLayout,
     children: [
       { name: "login", path: "login", meta: { entryPoint: true, }, component: SignIn },
       { name: "register", path: "register", component: SignUp, }
