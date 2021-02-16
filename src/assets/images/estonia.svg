@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="33" height="33" viewBox="0 0 33 33">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="_640px-Flag_of_Uganda.svg" data-name="640px-Flag_of_Uganda.svg" cx="16.5" cy="16.5" r="16.5" transform="translate(-0.293)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_1" data-name="Mask Group 1" transform="translate(0.293)" clip-path="url(#clip-path)">
+    <g id="Flag_of_Estonia" transform="translate(-9.441 -0.041)">
+      <rect id="Rectangle_11" data-name="Rectangle 11" width="51.748" height="32.931" fill="#fff"/>
+      <rect id="Rectangle_12" data-name="Rectangle 12" width="51.748" height="21.954"/>
+      <rect id="Rectangle_13" data-name="Rectangle 13" width="51.748" height="10.977" fill="#0072ce"/>
+    </g>
+  </g>
+</svg>
