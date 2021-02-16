@@ -5,7 +5,7 @@
             <div class="df items-center">
                 <!--ICON LOGO -->
                 <a onclick="smoothScroll('nav')" class="link scroll mb0 mb0-ns w3-ns w2-5 df flex-column justify-center items-center ml2-5 ml0-ns">
-                  <img class="logo w3-7-ns w4 w-100" src="@/assets/logo-light.svg">
+                  <img class="logo w3-7-ns w4 w-100" src="@/assets/logo-light.svg" style="max-width : 120px">
                 </a>
                 <span class="ml5 df">
                     <a class="relative link dn db-ns cs fw4 f6-5 white-60 scroll ttc mr4 cursor_hand"  onclick="smoothScroll('me')">Learn</a>

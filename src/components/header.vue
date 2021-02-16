@@ -8,7 +8,7 @@
     
                 <!-- LOGO -->
                 <a data-scroll href="index.html"> 
-                    <img class="logo w3-7-ns w4 w-100" src="@/assets/logo-light.svg">
+                    <img class="logo w3-7-ns w4 w-100" src="@/assets/logo-light.svg" style="max-width : 120px">
                 </a>
     
                 <!-- NAV ITEM LINKS-->
