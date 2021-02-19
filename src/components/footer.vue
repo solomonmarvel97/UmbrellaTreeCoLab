@@ -8,13 +8,16 @@
                   <img class="logo w3-7-ns w4 w-100" src="@/assets/logo-light.svg" style="max-width : 120px">
                 </a>
                 <span class="ml5 df">
-                    <a class="relative link dn db-ns cs fw4 f6-5 white-60 scroll ttc mr4 cursor_hand"  onclick="smoothScroll('me')">Learn</a>
-                    <a class="relative link dn db-ns cs fw4 f6-5 white-60 scroll ttc mr4 cursor_hand"  onclick="smoothScroll('me')">Contact</a>
-                    <a class="relative link dn db-ns cs fw4 f6-5 white-60 scroll ttc mr4 cursor_hand"  onclick="smoothScroll('me')">Blogs</a>
+                    <a class="relative link dn db-ns cs fw4 f6-5 white-60 scroll ttc mr4 cursor_hand">Learn</a>
+                    <p class="relative link dn db-ns cs fw4 f6-5 white-60 scroll ttc mr4"> © All Rights Reserved</p>
                 </span>
             </div>
               <div class="flex justify-center-ns">
-                <p class="ma0 f7 white lh-copy2  gradText">helpdesk@utcolab.com</p>
+                <a
+            href="mailto:utcolab@gmail.com"
+            target="_blank"
+            class="ma0 f7 white lh-copy2  gradText"
+            >utcolab@gmail.com</a>
               </div>
           </div>
     </footer>

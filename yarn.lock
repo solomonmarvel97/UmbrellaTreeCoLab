@@ -1889,6 +1889,11 @@
   dependencies:
     "tweetnacl" "^0.14.3"
 
+"bezier-easing@2.1.0":
+  "integrity" "sha1-wE3+i5JtbsrKGBPWn/F5t8ICXYY="
+  "resolved" "https://registry.npmjs.org/bezier-easing/-/bezier-easing-2.1.0.tgz"
+  "version" "2.1.0"
+
 "bfj@^6.1.1":
   "integrity" "sha1-MlyGGoIryzWKQceKM7jm4ght3n8="
   "resolved" "https://registry.npm.taobao.org/bfj/download/bfj-6.1.2.tgz?cache=0&sync_timestamp=1577112180160&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fbfj%2Fdownload%2Fbfj-6.1.2.tgz"
@@ -7899,7 +7904,7 @@
     "vue-hot-reload-api" "^2.3.0"
     "vue-style-loader" "^4.1.0"
 
-"vue-loading-overlay@^3.4.0":
+"vue-loading-overlay@^3.4.2":
   "integrity" "sha512-xcB+NPjl76eA0uggm707x3ZFgrNosZXpynHipyS3K+rrK1NztOV49R1LY+/4ij5W1KYANp7eRI2EIHrxCpmWAw=="
   "resolved" "https://registry.npmjs.org/vue-loading-overlay/-/vue-loading-overlay-3.4.2.tgz"
   "version" "3.4.2"
@@ -7920,6 +7925,13 @@
   "integrity" "sha1-rknaFqKTn40o1m1XhLFBZ9ZhGS8="
   "resolved" "https://registry.npm.taobao.org/vue-router/download/vue-router-3.5.0.tgz"
   "version" "3.5.0"
+
+"vue-scrollto@^2.20.0":
+  "integrity" "sha512-7i+AGKJTThZnMEkhIPgrZjyAX+fXV7/rGdg+CV283uZZwCxwiMXaBLTmIc5RTA4uwGnT+E6eJle3mXQfM2OD3A=="
+  "resolved" "https://registry.npmjs.org/vue-scrollto/-/vue-scrollto-2.20.0.tgz"
+  "version" "2.20.0"
+  dependencies:
+    "bezier-easing" "2.1.0"
 
 "vue-style-loader@^4.1.0", "vue-style-loader@^4.1.2":
   "integrity" "sha1-3t80mAbyXOtOZPOtfApE+6c1/Pg="

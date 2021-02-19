@@ -28,7 +28,7 @@
                                 <span class="bg-transparent br2 mr3"><img src="@/assets/images/phython.svg" /></span>
                                 <span class="bg-transparent br2 mr3"><img src="@/assets/images/java.svg" /></span>
                             </div>
-                            <a class=" df justify-center items-center ph3 h2-7 f4 fw5 br3 white w-75 w-90-pro btn-grad mb3 cursor_hand">Get early access</a>
+                            <a class="df justify-center items-center ph3 h2-7 f4 fw5 br3 white w-75 w-90-pro btn-grad mb3 cursor_hand" href="#" v-scroll-to="'#collect_email'">Get early access</a>
                         </div>
                     </div>
 
@@ -84,10 +84,7 @@
                     <p class="f3-ns tl tl-ns f4-5-pro white-40 fw4 lh-copy ani-opacity ma0 mt3-5-ns mb3 mt4 slide-up ">
                         Meet with some of the best women in technology, engage and <br> learn from their experience as you venture into your new career.
                     </p>
-                    <div class="mt4-ns mt3 w-100 df flex-column flex-row-ns items-center-ns">
-                        <input id="name" class=" input-reset h3 ba b--white-10 w6-ns w5-pro white-80 pa3 db outline-0 br3-5 mr2" style="background: rgba(255,255,255,0.0);" placeholder="example@mail.com" type="text">
-                        <a class=" df justify-center items-center ph4 h3 f4-ns f4-5 mt3 mt0-ns fw5 br3-5 black-90 btn-grad ml3-ns cursor_hand">Get early access</a>
-                    </div>
+                    
                 </div>
                 <!--RIGHT BANNER ILLUSTRATION-->
                 <div class="slide-up h7-ns h5-7 w-40-ns w-40-pro  w-80-m w-85 mt5 mt0-ns mb5 mb0-ns mv0-ns ani-opacity df flex-column items-center justify-center">

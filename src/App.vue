@@ -1,5 +1,6 @@
 <template>
   <div>
-    <router-view> </router-view>
+    <notifications group="foo" position="top center"/>
+    <router-view/>
   </div>
 </template>
