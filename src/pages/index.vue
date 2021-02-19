@@ -85,6 +85,8 @@
                         Meet with some of the best women in technology, engage and <br> learn from their experience as you venture into your new career.
                     </p>
                     
+                    <a class="df justify-center items-center ph3 h2-7 f4 fw5 br3 white w-35 w-90-pro btn-grad mb3 cursor_hand" href="#" v-scroll-to="'#collect_email'">Get early access</a>
+
                 </div>
                 <!--RIGHT BANNER ILLUSTRATION-->
                 <div class="slide-up h7-ns h5-7 w-40-ns w-40-pro  w-80-m w-85 mt5 mt0-ns mb5 mb0-ns mv0-ns ani-opacity df flex-column items-center justify-center">
