@@ -146,7 +146,7 @@
               class="input-reset h3 ba b--white-10 w6-ns w5-pro white-80 pa3 db outline-0 br3-5 mr2"
               style="background: rgba(255, 255, 255, 0)"
               placeholder="example@mail.com"
-              type="text"
+              type="email"
             />
             <input
               type="submit"
