@@ -105,7 +105,7 @@
               ></ion-icon
             ></span>
           </a>
-          <a href="#" v-scroll-to="'#collect_email'">
+          <a href="#" v-scroll-to="'#collect_email'"
             class=" df justify-center ph3 br3 black-90 closelinkHold pv3 ph4
             br-pill mt4 mail-c">
             <a class="ma0 fw5 btn-txt f4-ns f5 cursor_hand">Get early access</a>
