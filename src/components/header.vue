@@ -223,8 +223,8 @@ export default {
       // send data
       var config = {
         method: "post",
-        // url: "https://utcolabapi.onrender.com/api/v1/email/signup",
-        url: "http://localhost:5000/api/v1/email/signup",
+        url: "https://utcolabapi.onrender.com/api/v1/email/signup",
+        // url: "http://localhost:5000/api/v1/email/signup",
         headers: {
           "Content-Type": "application/json",
         },
