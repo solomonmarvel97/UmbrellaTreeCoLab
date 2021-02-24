@@ -83,6 +83,15 @@
         <ul
           class="pa0 flex flex-column flex-auto justify-start items-center ph3 w-100"
         >
+              
+              <a
+            class="list flex items-center justify-between link pv3 ph3 mv1 bg-white-05 w-100 scroll closelinkHold br2"
+            href="https://app.utcolab.org"
+          >
+            <span class="black-70 ma0 ttc f4-5">Visit Learning Portal</span>
+            <ion-icon class="f5 black-50" name="ios-arrow-forward"></ion-icon>
+          </a>
+
           <a
             class="list flex items-center justify-between link pv3 ph3 mv1 bg-white-05 w-100 scroll closelinkHold br2"
             onclick="smoothScroll('me')"
