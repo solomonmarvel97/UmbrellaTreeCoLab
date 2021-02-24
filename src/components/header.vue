@@ -22,6 +22,12 @@
         <ul class="ma0 pa0 flex flex-auto justify-end">
           <div class="dn df-ns pa0 flex justify-end items-center">
             <li class="list">
+              <a class="relative link dn db-ns cs fw4 f6-5 white-60 scroll ttc mr4 cursor_hand"
+                href="https://app.utcolab.org">
+                Visit Learning Portal</a
+              >
+            </li>
+            <li class="list">
               <a
                 class="relative link dn db-ns cs fw4 f6-5 white-60 scroll ttc mr4 cursor_hand"
                 onclick="smoothScroll('me')"
